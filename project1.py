@@ -1,5 +1,12 @@
 """Projeto 1 de FP - Campanha de observação de exoplanetas."""
 
+#Declaração de uso de ferramentas de IA:
+# - Ferramenta utilizada: Claude.
+# - Modo de uso: Apoio na interpretação do enunciado, revisão de sintaxe,
+#   validação lógica das soluções desenvolvidas, verificação de anotações
+#   de tipo (MyPy) e conformidade com as normas de estilo PEP 8 / Pylint.
+#   Todo o código final foi escrito e validado por mim.
+
 from dataclasses import dataclass
 
 
